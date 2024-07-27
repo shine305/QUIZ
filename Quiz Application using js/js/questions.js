@@ -2,57 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "日本の一番北にある都道府県都道府県はどこですか",
+    answer: "北海道",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "北海道",
+      "青森館",
+      "秋田県",
+      "石川県"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "日本の一番西にある都道府県都道府県はどこですか",
+    answer: "沖縄県",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "沖縄県",
+      "長崎県",
+      "大阪府",
+      "鹿児島県"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "日本の一番南にある都道府県都道府県はどこですか",
+    answer: "沖ノ鳥島",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "屋久島",
+      "南鳥島",
+      "沖縄本島",
+      "沖ノ鳥島"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "日本の一番東にある都道府県都道府県はどこですか",
+    answer: "南鳥島",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "父島",
+      "沖ノ鳥島",
+      "南鳥島",
+      "母島"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "日本で日本で一番人口が多い都道府県はどこですか",
+    answer: "東京都",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "大阪府",
+      "東京都",
+      "兵庫県",
+      "神奈川県"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
